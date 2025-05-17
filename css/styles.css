@@ -71,6 +71,7 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -107,6 +108,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .reviews-subtitle {
